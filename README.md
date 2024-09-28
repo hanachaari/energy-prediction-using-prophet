@@ -12,10 +12,10 @@ This project aims to forecast energy consumption using the Prophet library. The 
 
 To set up this project on your Unix computer, follow these steps:
 
-   git clone https://github.com/hanachaari/energy-prediction-using-prophet.git
-   cd energy-prediction-using-prophet
-   pip install -r requirements.txt
-   python app.py
+- git clone https://github.com/hanachaari/energy-prediction-using-prophet.git
+- cd energy-prediction-using-prophet
+- pip install -r requirements.txt
+- python app.py
 
 ## API Endpoints
 As I used prophet library for the model, the input woould be N
